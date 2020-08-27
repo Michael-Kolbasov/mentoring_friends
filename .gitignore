@@ -1,5 +1,10 @@
 .idea
 output/
+*.iml
+*.ipr
+*.iws
+.gradle
+build/
 
 # Compiled class file
 *.class
