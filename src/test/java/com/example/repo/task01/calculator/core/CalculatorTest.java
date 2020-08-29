@@ -1,4 +1,4 @@
-package com.example.repo.task01.core;
+package com.example.repo.task01.calculator.core;
 
 import org.junit.Test;
 

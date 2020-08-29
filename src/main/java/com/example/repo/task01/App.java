@@ -1,6 +1,6 @@
 package com.example.repo.task01;
 
-import com.example.repo.task01.core.Calculator;
+import com.example.repo.task01.calculator.core.Calculator;
 
 public class App {
 
