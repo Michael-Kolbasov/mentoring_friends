@@ -1,4 +1,4 @@
-package com.example.repo.task01;
+package com.example.repo.task01.calculator;
 
 import com.example.repo.task01.calculator.core.Calculator;
 
